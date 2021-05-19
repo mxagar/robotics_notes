@@ -14,9 +14,10 @@ Examples implementes in Python using Peter Corke's [Robotics Toolbox](https://gi
 
 Index of topics:
     
-1. Spatial Descriptions and Transformation Matrices for Robotic Manipulators (Videos 1, 2, 3)
-2. Rotation: Euler Angles & Co. (Videos 4, 5)
-3. Direct Kinematics
-4. Jacobians
-5. Trajectory Generation
-6. Inverse Kinematics
+1. Spatial Descriptions and Transformation Matrices for Robotic Manipulators (Videos 1, 2, 3; Craig 2)
+2. Rotation: Euler Angles & Co. (Videos 4, 5; Craig 2)
+3. Direct Kinematics (Craig 3)
+4. Inverse Kinematics (Craig 4)
+5. Jacobians (Craig 5)
+6. Dynamics (Craig 6)
+7. Trajectory Generation (Craig 7)
