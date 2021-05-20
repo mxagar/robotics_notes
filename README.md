@@ -16,7 +16,9 @@ Index of topics:
     
 1. Spatial Descriptions and Transformation Matrices for Robotic Manipulators (Videos 1, 2, 3; Craig 2)
 2. Rotation: Euler Angles & Co. (Videos 4, 5; Craig 2)
-3. Direct Kinematics (Craig 3)
+
+3. Direct Kinematics (Videos 6, 7, 8, 9; Craig 3)
+
 4. Inverse Kinematics (Craig 4)
 5. Jacobians (Craig 5)
 6. Dynamics (Craig 6)
