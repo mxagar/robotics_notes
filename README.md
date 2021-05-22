@@ -46,3 +46,11 @@ Index of topics:
 5. Jacobians (Craig 5)
 6. Dynamics (Craig 6)
 7. Trajectory Generation (Craig 7)
+
+8. Motion planning (Lynch 10)
+9. Robot Control (Lynch 11)
+10. Grasping and Manipulation (Lynch 12)
+
+11. Linear control of manipulators (Craig 9)
+12. Nonlinear control of manipulators (Craig 10)
+13. Force control of manipulators (Craig 11)
