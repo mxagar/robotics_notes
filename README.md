@@ -36,9 +36,13 @@ Index of topics:
 3. Direct Kinematics (Videos 6, 7, 8, 9; Craig 3)
     - Links and joints
     - Conventions for fixing frames to joints
-    - Denavit-Hartenberg representation for describing direct kinematics
+    - Denavit-Hartenberg (DH) representation for describing direct kinematics
+    - DH Parameters example
+    - Frames with standard names
+    - DH parameters of the URe-s
 
 4. Inverse Kinematics (Craig 4)
+
 5. Jacobians (Craig 5)
 6. Dynamics (Craig 6)
 7. Trajectory Generation (Craig 7)
