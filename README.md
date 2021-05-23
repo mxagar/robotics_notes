@@ -34,6 +34,7 @@ Index of topics:
     - Angle-axis representation
     - Unit Quaternions = Euler parameters
     - Rodrigues' Formula
+    - Exponential Representation of Rotations
 
 3. Direct Kinematics (Videos 6, 7, 8, 9; Craig 3)
     - Links and joints
@@ -44,19 +45,22 @@ Index of topics:
     - DH parameters of the URe-s
 
 4. Inverse Kinematics (Craig 4)
+    - Solvability issues
+    - The notion of manipulator subsapace when n < 6
 
 5. Jacobians (Craig 5)
 6. Dynamics (Craig 6)
 7. Trajectory Generation (Craig 7)
 
 Now, start the CoppeliaSim tutorial.
+10 hours, approx.
 
 Coursera Courses:
 8. Motion planning (Lynch 10)
 9. Robot Control (Lynch 11)
 10. Grasping and Manipulation (Lynch 12)
+11. Wheeled Mobile Robots (Lynch 13)
 
-
-11. Linear control of manipulators (Craig 9)
-12. Nonlinear control of manipulators (Craig 10)
-13. Force control of manipulators (Craig 11)
+12. Linear control of manipulators (Craig 9)
+13. Nonlinear control of manipulators (Craig 10)
+14. Force control of manipulators (Craig 11)
