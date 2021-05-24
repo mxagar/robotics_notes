@@ -46,7 +46,8 @@ Index of topics:
 
 4. Inverse Kinematics (Craig 4)
     - Solvability issues
-    - The notion of manipulator subsapace when n < 6
+    - Example with a planar manipulator
+    - Repeatability and Accuracy
 
 5. Jacobians (Craig 5)
 6. Dynamics (Craig 6)
