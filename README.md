@@ -49,7 +49,15 @@ Index of topics:
     - Example with a planar manipulator
     - Repeatability and Accuracy
 
-5. Jacobians (Craig 5)
+5. Jacobians (Videos 10, 11, 12, 13; Craig 5)
+    - The Jacobian Matrix
+    - The Frame of the Jacobian
+    - Singularities
+    - Calculating the Jacobian
+        - Partial differentiation method
+        - Velocity propagation method
+    - Computation of forces and torques using the Jacobian
+
 6. Dynamics (Craig 6)
 7. Trajectory Generation (Craig 7)
 
