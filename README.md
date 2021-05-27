@@ -50,6 +50,8 @@ Index of topics:
     - Repeatability and Accuracy
 
 5. Jacobians (Videos 10, 11, 12, 13; Craig 5)
+    - Linear and angular velocities: time-varying position and orientation
+    
     - The Jacobian Matrix
     - The Frame of the Jacobian
     - Singularities
