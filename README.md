@@ -51,7 +51,9 @@ Index of topics:
 
 5. Jacobians (Videos 10, 11, 12, 13; Craig 5)
     - Linear and angular velocities: time-varying position and orientation
-    
+    - Velocity of Rigid Bodies
+    - Notes on the Angular Velocity
+    - Velocity Propagation from Link to Link
     - The Jacobian Matrix
     - The Frame of the Jacobian
     - Singularities
