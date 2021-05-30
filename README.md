@@ -60,7 +60,7 @@ Index of topics:
     - Calculating the Jacobian
         - Partial differentiation method
         - Velocity propagation method
-    - Computation of forces and torques using the Jacobian
+    - Computation of forces and torques necessary at the joints to support a force at the endeffector using the Jacobian
 
 6. Dynamics (Craig 6)
 7. Trajectory Generation (Craig 7)
@@ -68,12 +68,13 @@ Index of topics:
 Now, start the CoppeliaSim tutorial.
 10 hours, approx.
 
-Coursera Courses:
-8. Motion planning (Lynch 10)
-9. Robot Control (Lynch 11)
-10. Grasping and Manipulation (Lynch 12)
-11. Wheeled Mobile Robots (Lynch 13)
+8. Mechanism Design (Craig 8)
+9. Linear control of manipulators (Craig 9)
+10. Nonlinear control of manipulators (Craig 10)
+11. Force control of manipulators (Craig 11)
 
-12. Linear control of manipulators (Craig 9)
-13. Nonlinear control of manipulators (Craig 10)
-14. Force control of manipulators (Craig 11)
+Coursera Courses (Modern Robotics 3 & 4):
+12. Motion planning (Lynch 10)
+13. Robot Control (Lynch 11)
+14. Grasping and Manipulation (Lynch 12)
+15. Wheeled Mobile Robots (Lynch 13)
