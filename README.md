@@ -70,6 +70,8 @@ Index of topics:
 
 Now, start the CoppeliaSim tutorial.
 10 hours, approx.
+In parallel, explore Peter Corke's library, with his videos.
+10 hours, approx.
 
 8. Mechanism Design (Craig 8)
 9. Linear control of manipulators (Craig 9)
