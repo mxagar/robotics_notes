@@ -26,6 +26,7 @@ Index of topics:
     - Compositions of transformations
     - Inverse Transformation matrix
     - Example: Compositions
+    
 2. Rotation: Euler Angles & Co. (Videos 4, 5; Craig 2)
     - Fixed Angle representation
     - Euler Angle representation (moving)
@@ -60,7 +61,9 @@ Index of topics:
     - Calculating the Jacobian
         - Partial differentiation method
         - Velocity propagation method
+    - Static Forces in Manipulators
     - Computation of forces and torques necessary at the joints to support a force at the endeffector using the Jacobian
+    - Cartesian Transformation of Velocities and STatic Forces
 
 6. Dynamics (Craig 6)
 7. Trajectory Generation (Craig 7)
