@@ -66,6 +66,11 @@ Index of topics:
     - Cartesian Transformation of Velocities and STatic Forces
 
 6. Dynamics (Craig 6)
+    - Acceleration of a Rigid Body
+    - Mass Distribution
+    - Newton-Euler Equations of Motion
+    - Iterative Newton-Euler Dynamic Formulation: Obtain Joint Torques Necessary for Joint Motion
+    
 7. Trajectory Generation (Craig 7)
 
 Now, start the CoppeliaSim tutorial.
