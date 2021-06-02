@@ -37,7 +37,7 @@ Index of topics:
     - Rodrigues' Formula
     - Exponential Representation of Rotations
 
-3. Direct Kinematics (Videos 6, 7, 8, 9; Craig 3)
+3. Direct (Forward) Kinematics (Videos 6, 7, 8, 9; Craig 3)
     - Links and joints
     - Conventions for fixing frames to joints
     - Denavit-Hartenberg (DH) representation for describing direct kinematics
@@ -69,8 +69,16 @@ Index of topics:
     - Acceleration of a Rigid Body
     - Mass Distribution
     - Newton-Euler Equations of Motion
-    - Iterative Newton-Euler Dynamic Formulation: Obtain Joint Torques Necessary for Joint Motion
-    
+    - Iterative Newton-Euler Dynamic Formulation: Obtain Joint Torques Necessary for Joint Motion (Inverse Dynamics)
+    - An Example of Closed-Form Dynamic Equations
+    - The Structure of a Manipulator's Dynamic Equations
+        - The State-Space Equation
+        - The Configuration-Space Equation
+    - Lagrangian Formulation for Manipulator Dynamics
+    - Manipulator Dynamics in Cartesian Space
+    - Inclusion of Other Effects
+    - Dynamics Simulation: Forward Dynamics
+
 7. Trajectory Generation (Craig 7)
 
 Now, start the CoppeliaSim tutorial.
