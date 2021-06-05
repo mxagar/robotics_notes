@@ -80,6 +80,13 @@ Index of topics:
     - Dynamics Simulation: Forward Dynamics
 
 7. Trajectory Generation (Craig 7)
+    - Path Generation with Joint Schemes
+        - Cubic Polynomials of Joint Values with Via Points
+        - Linear Functions with Parabolic Blends
+    - Path Generation with Cartesian Schemes
+        - Cartesian Straight-Line Motion
+        - Problems with Cartesian Paths
+    - Path Generation at Run-Time
 
 Now, start the CoppeliaSim tutorial.
 10 hours, approx.
