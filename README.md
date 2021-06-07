@@ -88,12 +88,19 @@ Index of topics:
         - Problems with Cartesian Paths
     - Path Generation at Run-Time
 
+8. Mechanism Design (Craig 8)
+    - Basing the Design on Task Requirements
+    - Kinematic Configuration
+    - Quantitative Measures of Workspace Attributes
+    - Actuation Schemes
+    - Stiffness and Deflections
+    - Actuators and Sensors
+
 Now, start the CoppeliaSim tutorial.
 10 hours, approx.
 In parallel, explore Peter Corke's library, with his videos.
 10 hours, approx.
 
-8. Mechanism Design (Craig 8)
 9. Linear control of manipulators (Craig 9)
 10. Nonlinear control of manipulators (Craig 10)
 11. Force control of manipulators (Craig 11)
