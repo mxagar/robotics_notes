@@ -11,6 +11,7 @@ Some of the used resources:
 - J. Craig, Introduction to Robotics, 3rd Ed.
 - Lynch & Park, Modern Robotics. Book and Coursera Course.
 - [CoppeliaSim Tutorial by Leopoldo Armesto](https://www.youtube.com/playlist?list=PLjzuoBhdtaXOYfcZOPS98uDTf4aAoDSRR)
+- Robotics. Coursera Course by the University of Pennsilvania
 
 Notes done using Notability for iPad.
 Examples implemented in Python using Peter Corke's [Robotics Toolbox](https://github.com/petercorke/robotics-toolbox-python).
@@ -96,17 +97,37 @@ Index of topics:
     - Stiffness and Deflections
     - Actuators and Sensors
 
-Now, start the CoppeliaSim tutorial.
-10 hours, approx.
-In parallel, explore Peter Corke's library, with his videos.
-10 hours, approx.
-
 9. Linear control of manipulators (Craig 9)
+    - Feedback and Closed-Loop Control
+    - Second-Order Linear Systems
+    - Control of Second-Order Systems
+    - Control-Law Partitioning
+    - Trajectory-Following Control
+    - Disturbance Rejection
+    - Continuous vs. Discrete Time Control
+    - Modeling and Control of a Single Joint
+    - Architecture of an Industrial-Robot Controller
+
 10. Nonlinear control of manipulators (Craig 10)
 11. Force control of manipulators (Craig 11)
+
+- Learn how to explain all notes.
+10 hours, approx.
+- Start the CoppeliaSim tutorial.
+10 hours, approx.
+- Explore Peter Corke's library, with his videos.
+10 hours, approx.
 
 Coursera Courses (Modern Robotics 3 & 4):
 12. Motion planning (Lynch 10)
 13. Robot Control (Lynch 11)
 14. Grasping and Manipulation (Lynch 12)
 15. Wheeled Mobile Robots (Lynch 13)
+
+Coursera Courses (Robotics Uni Penn):
+- Aerial Robotics, 25h
+- Computational Motion Planning, 25h
+- Mobility, 25h
+- Perception, 25h
+- Extimation and Learning, 25h
+- Capstone, 25h
