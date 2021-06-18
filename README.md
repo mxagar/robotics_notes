@@ -100,6 +100,8 @@ Index of topics:
 9. Linear control of manipulators (Craig 9)
     - Feedback and Closed-Loop Control
     - Second-Order Linear Systems
+        - Laplace
+        - Solving the second-order linear system
     - Control of Second-Order Systems
     - Control-Law Partitioning
     - Trajectory-Following Control
@@ -129,5 +131,5 @@ Coursera Courses (Robotics Uni Penn):
 - Computational Motion Planning, 25h
 - Mobility, 25h
 - Perception, 25h
-- Extimation and Learning, 25h
+- Estimation and Learning, 25h
 - Capstone, 25h
