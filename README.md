@@ -103,9 +103,12 @@ Index of topics:
         - Laplace
         - Solving the second-order linear system
     - Control of Second-Order Systems
+        - Position Regulation Control
     - Control-Law Partitioning
     - Trajectory-Following Control
     - Disturbance Rejection
+        - Steady State Error
+        - PID Control
     - Continuous vs. Discrete Time Control
     - Modeling and Control of a Single Joint
     - Architecture of an Industrial-Robot Controller
@@ -127,9 +130,10 @@ Coursera Courses (Modern Robotics 3 & 4):
 15. Wheeled Mobile Robots (Lynch 13)
 
 Coursera Courses (Robotics Uni Penn):
-- Aerial Robotics, 25h
-- Computational Motion Planning, 25h
-- Mobility, 25h
-- Perception, 25h
-- Estimation and Learning, 25h
-- Capstone, 25h
+
+1. Aerial Robotics, 25h
+2. Computational Motion Planning, 25h
+3. Mobility, 25h
+4. Perception, 25h
+5. Estimation and Learning, 25h
+6. Capstone, 25h
