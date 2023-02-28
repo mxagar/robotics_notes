@@ -1,22 +1,23 @@
 # Notes on Robotics
 
-Notes on robotics, mainly (arm) manipulation robotics: kinematics, dynamics, trajectory generation, control. Additionaly robot vision topics are outlined.
-
-I made these notes as a possible script for students.
+Notes on robotics, mainly (arm) manipulation robotics: kinematics, dynamics, trajectory generation, control. I made these notes as a possible script for my students.
 
 Some of the used resources:
 
-- [Youtube ThatsEngineering, Robotics Playlist](https://www.youtube.com/playlist?list=PLZaGkBteQK3HQFSWDM7-yRQWTd86DeDIY)
-- [QUT Robot Academy, Peter Corke](https://robotacademy.net.au/)
+- [Youtube ThatsEngineering, Robotics Playlist](https://www.youtube.com/playlist?list=PLZaGkBteQK3HQFSWDM7-yRQWTd86DeDIY).
+- [QUT Robot Academy, Peter Corke](https://robotacademy.net.au/).
 - J. Craig, Introduction to Robotics, 3rd Ed.
 - Lynch & Park, Modern Robotics. Book and Coursera Course.
-- [CoppeliaSim Tutorial by Leopoldo Armesto](https://www.youtube.com/playlist?list=PLjzuoBhdtaXOYfcZOPS98uDTf4aAoDSRR)
-- Robotics. Coursera Course by the University of Pennsilvania
+- [CoppeliaSim Tutorial by Leopoldo Armesto](https://www.youtube.com/playlist?list=PLjzuoBhdtaXOYfcZOPS98uDTf4aAoDSRR).
+- Robotics, Coursera Course by the University of Pennsilvania.
 
-Notes done using Notability for iPad.
+The notes were done using Notability for iPad.
+
+<!--
 Examples implemented in Python using Peter Corke's [Robotics Toolbox](https://github.com/petercorke/robotics-toolbox-python).
+-->
 
-Index of topics:
+Each topic has its own PDF:
 
 1. Spatial Descriptions and Transformation Matrices for Robotic Manipulators (Videos 1, 2, 3; Craig 2)
     - Position vector
@@ -113,27 +114,8 @@ Index of topics:
     - Modeling and Control of a Single Joint
     - Architecture of an Industrial-Robot Controller
 
-10. Nonlinear control of manipulators (Craig 10)
-11. Force control of manipulators (Craig 11)
+10. Nonlinear control of manipulators (Craig 10, TBD.)
+11. Force control of manipulators (Craig 11, TBD.)
 
-- Learn how to explain all notes.
-10 hours, approx.
-- Start the CoppeliaSim tutorial.
-10 hours, approx.
-- Explore Peter Corke's library, with his videos.
-10 hours, approx.
-
-Coursera Courses (Modern Robotics 3 & 4):
-12. Motion planning (Lynch 10)
-13. Robot Control (Lynch 11)
-14. Grasping and Manipulation (Lynch 12)
-15. Wheeled Mobile Robots (Lynch 13)
-
-Coursera Courses (Robotics Uni Penn):
-
-1. Aerial Robotics, 25h
-2. Computational Motion Planning, 25h
-3. Mobility, 25h
-4. Perception, 25h
-5. Estimation and Learning, 25h
-6. Capstone, 25h
+Mikel Sagardia, 2021.  
+No guarantees.
